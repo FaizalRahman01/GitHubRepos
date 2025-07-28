@@ -5,43 +5,43 @@ Ek sahi jawab aapko lakhon, crodon rupay jeetne ka mauka de sakta hai
 Doston, aaj ka khel shuru karne se pehle, ek baar zor daar taaliyanho jayein humare contestants ke liye
 Swagat hai aapka hot seat par! Kaisa mehsoos ho raha hai?""")
 batao=input("")
-print("""whhh!! ,To Chalye hum apko Game k rule bata dete hai 📜 KBC Game Ke Rules:
-1️⃣ Total 15 Questions 🎤
+print("""whhh!! ,To Chalye hum apko Game k rule bata dete hai  KBC Game Ke Rules:
+1️⃣ Total 15 Questions 
 
 Contestant ko ek-ek karke multiple-choice questions diye jate hain.
 Har question ka 4 options diye jate hain, jisme se ek sahi jawab hota hai.
-2️⃣ Har Sahi Jawab Pe Prize Money 💰
+2️⃣ Har Sahi Jawab Pe Prize Money 
 
 Pehla question ₹1,000 se shuru hota hai.
 Har sahi jawab par amount badhti hai.
 Last question tak pahunchne par ₹7 crore tak jeet sakte hain!
-3️⃣ Milestone Questions (Safe Levels) ✅
+3️⃣ Milestone Questions (Safe Levels) 
 
 Question 5 (₹10,000) – Pehla safe level
 Question 10 (₹3,20,000) – Dusra safe level
 Question 15 (₹1 Crore) – Jackpot
 Question 16 (₹7 Crore) – Ultimate Jackpot
-🎯 Agar koi milestone cross karta hai, toh galat jawab dene ke baad bhi wo minimum itna paisa jeet chuka hota hai.
+ Agar koi milestone cross karta hai, toh galat jawab dene ke baad bhi wo minimum itna paisa jeet chuka hota hai.
 
-4️⃣ Lifelines (Help Options) 🛟
+4️⃣ Lifelines (Help Options) 
 
 50:50 – Do galat options hata diye jate hain.
 Audience Poll – Studio audience voting karti hai.
 Phone-a-Friend – Contestant apne kisi dost se phone pe madad le sakta hai.
 Flip the Question – Question badal diya jata hai.
-5️⃣ Galat Jawab Par Game Over 🚫
+5️⃣ Galat Jawab Par Game Over 
 
 Agar contestant galat jawab deta hai, toh pichhle milestone tak ka paisa milega.
 Agar koi milestone tak nahi pahunchta aur galti karta hai, toh zero bhi ho sakta hai.
-6️⃣ Quit Karna Allowed Hai 🏃
+6️⃣ Quit Karna Allowed Hai 
 
 Agar contestant sure nahi hai, toh game chhod kar jeeti hui amount le sakta hai.
 Quit karne se milne wala paisa safe hota hai.
-🎶 Game Start Example:
+ Game Start Example:
 Amitabh Bachchan:
 "Toh bina kisi deri ke, chaliye khel shuru karte hain… Kaun Banega Crorepati!"
 
-🎵 (Background music starts, screen pe pehla question dikhai deta hai!) 🎬""")
+ (Background music starts, screen pe pehla question dikhai deta hai!) """)
 jawab = input()
 question =["1️⃣ - Which is the national animal of India?\n(A) Tiger\n(B) Lion\n(C) Elephant\n(D) Deer",
          "2️⃣  -  Which festival is known as the festival of lights?\n(A) Holi\n(B) Diwali\n(C) Eid\n(D) Christmas",
@@ -220,10 +220,10 @@ else:
 print(question[15])
 first=(input())
 if (first =='b'):
-    print("\t \t 7 Crore 🥳🫂")
+    print("\t \t 7 Crore ")
     print("correct answer you won ₹7Crore rupees\n")
-    print("Bahoot Bahoot Badhai Bhai Sahab/Bahan jii  aapko Aap jit chuke hai ₹7Crore🥳🥳💥  ")
+    print("Bahoot Bahoot Badhai Bhai Sahab/Bahan jii  aapko Aap jit chuke hai ₹7Crore  ")
 else:
     print("sorry correct answer is Brazil and you lost the game\n")
     exit ()
-print("If You play Again The KBC Game Then Re run the code ▶️")
+print("If You play Again The KBC Game Then Re run the code ▶")
