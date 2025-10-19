@@ -84,7 +84,7 @@ Enter your choice: a
 1. **Clone this repository:**
 
 ```bash
-git clone [https://github.com/yourusername/KBC-Game.git](https://github.com/FaizalRahman01/GitHubRepos)
+[git clone [https://github.com/yourusername/KBC-Game.git](https://github.com/FaizalRahman01/GitHubRepos)](https://github.com/FaizalRahman01/GitHubRepos)
 ```
  Correct answer! You won ₹1,000 rupees
 
