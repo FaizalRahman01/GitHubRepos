@@ -1,27 +1,27 @@
-# 🎯 Kaun Banega Crorepati (KBC) - Python Console Game 🎯
+#  Kaun Banega Crorepati (KBC) - Python Console Game 
 
 **Developer:** Faizal Rahman  
 *"Knowledge is your true wealth — test it, play it, and win it!"*
 
 ---
 
-## 🧠 About the Game
+##  About the Game
 
 This is a **Python-based console game** inspired by the famous Indian TV show  
 🎤 *Kaun Banega Crorepati (KBC)* hosted by Amitabh Bachchan.  
 
 Players answer **15 multiple-choice questions** for increasing prize amounts.  
-Reaching the final question gives you a chance to win a virtual **₹7 Crore! 💰**
+Reaching the final question gives you a chance to win a virtual **₹7 Crore! **
 
 ---
 
-## 🕹️ How to Play
+##  How to Play
 
 1. **Run the Script**  
    Open terminal and run:
    ```bash
    python kbc_game.py
-# 🎯 Kaun Banega Crorepati (KBC) - Python Console Game 🎯
+#  Kaun Banega Crorepati (KBC) - Python Console Game 
 
 **Developer:** Faizal Rahman  
 *"Knowledge is your true wealth — test it, play it, and win it!"*
@@ -35,13 +35,13 @@ Reaching the final question gives you a chance to win a virtual **₹7 Crore! �
    Then, answer 15 questions — each with 4 options (A, B, C, D).
 
 2. **Win or Quit**  
-   - Correct answer → next question 🏆  
-   - Wrong answer → game over ❌  
-   - Cross a milestone → winnings are safe 💵
+   - Correct answer → next question   
+   - Wrong answer → game over   
+   - Cross a milestone → winnings are safe 
 
 ---
 
-## 💰 Prize Levels
+##  Prize Levels
 
 | Question | Prize Money      | Milestone           |
 |----------|----------------|-------------------|
@@ -53,7 +53,7 @@ Reaching the final question gives you a chance to win a virtual **₹7 Crore! �
 
 ---
 
-## 🧩 Features
+##  Features
 
 - Realistic KBC-style narration  
 - Multiple-choice quiz system  
@@ -64,7 +64,7 @@ Reaching the final question gives you a chance to win a virtual **₹7 Crore! �
 
 ---
 
-## 📜 Example Gameplay
+##  Example Gameplay
 
 ```bash
 Namaskar, main Amitabh Bachchan bol raha hoon...
@@ -79,13 +79,24 @@ Swagat hai aapka Kaun Banega Crorepati me!
 
 Enter your choice: a
 ```
-## ⚙️ How to Run
+##  How to Run
 
 1. **Clone this repository:**
 
 ```bash
 git clone [https://github.com/yourusername/KBC-Game.git](https://github.com/FaizalRahman01/GitHubRepos)
 ```
-✅ Correct answer! You won ₹1,000 rupees
+ Correct answer! You won ₹1,000 rupees
 
+##  How to Run
 
+1. **Navigate into the project folder:**
+
+```bash
+cd KBC-Game
+```
+##  Run the Python Script
+
+```bash
+python kbc_game.py
+```
