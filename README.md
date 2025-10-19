@@ -73,9 +73,19 @@ Swagat hai aapka Kaun Banega Crorepati me!
 1️⃣ - Which is the national animal of India?
 (A) Tiger
 (B) Lion
+
 (C) Elephant
 (D) Deer
 
 Enter your choice: a
+```
+## ⚙️ How to Run
+
+1. **Clone this repository:**
+
+```bash
+git clone [https://github.com/yourusername/KBC-Game.git](https://github.com/FaizalRahman01/GitHubRepos)
+```
 ✅ Correct answer! You won ₹1,000 rupees
+
 
