@@ -20,7 +20,7 @@ Reaching the final question gives you a chance to win a virtual **₹7 Crore! **
 1. **Run the Script**  
    Open terminal and run:
    ```bash
-   python kbc_game.py
+   python 7 Crore.py
 #  Kaun Banega Crorepati (KBC) - Python Console Game 
 
 **Developer:** Faizal Rahman  
@@ -98,5 +98,5 @@ cd KBC-Game
 ##  Run the Python Script
 
 ```bash
-python kbc_game.py
+python 7 Crore.py
 ```
